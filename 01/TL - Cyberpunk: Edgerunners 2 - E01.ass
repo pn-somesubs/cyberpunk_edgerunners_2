@@ -1,0 +1,361 @@
+[Script Info]
+Title: pn-SomeSubs - Cyberpunk: Edgerunners 2
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: None
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,19,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.7,0.7,2,12,12,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.22,0:00:15.02,Default,,0,0,0,,{\i1}Bekle Roman! Bekle!{\i}
+Dialogue: 0,0:00:05.00,0:00:17.00,Default,,0,0,0,,{\fs15\an7\fe20\b\fad(400,400)\bord2\blur1\4a&HFF&\fnSweetest Cat Ever\pos(6,-5.67)}\N{\pos(20,1)}{\c&HFFFF00&}{\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\pos(60,63)}{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} Patrol\N{\pos(60,111)}{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Velnoxy\N{\pos(60,111)}{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} Patrol\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub
+Dialogue: 0,0:00:15.52,0:00:17.31,Default,,0,0,0,,{\i1}Ne? Gitmiş.{\i}
+Dialogue: 0,0:00:17.31,0:00:19.02,Default,,0,0,0,,{\i1}Sanırım beni duymadı.{\i}
+Dialogue: 0,0:00:19.02,0:00:21.35,Default,,0,0,0,,{\i1}Kamerası varken ona boşuna seslenme.{\i}
+Dialogue: 0,0:00:21.35,0:00:24.27,Default,,0,0,0,,{\i1}- Niye ki?{\i}\N- {\i1}Seni duymaz, kendini kaptırıyor.{\i}
+Dialogue: 0,0:00:24.27,0:00:26.73,Default,,0,0,0,,{\i1}- Neye?{\i}\N- {\i1}Kamerasına.{\i}
+Dialogue: 0,0:00:26.74,0:00:27.94,Default,,0,0,0,,{\i1}Niye ki?{\i}
+Dialogue: 0,0:00:28.53,0:00:29.70,Default,,0,0,0,,{\i1}Seviyormuş.{\i}
+Dialogue: 0,0:00:30.20,0:00:31.95,Default,,0,0,0,,{\i1}BD için falan mı kullanıyor?{\i}
+Dialogue: 0,0:00:32.53,0:00:34.03,Default,,0,0,0,,{\i1}Hayır, filmleri seviyor.{\i}
+Dialogue: 0,0:00:35.04,0:00:37.29,Default,,0,0,0,,{\i1}"Film" mi? O da ne?{\i}
+Dialogue: 0,0:00:39.21,0:00:40.96,Default,,0,0,0,,{\i1}Tam bir mal.{\i}
+Dialogue: 0,0:00:41.54,0:00:44.04,Default,,0,0,0,,{\i1}Karanlık bir odada ekrandan izleniyor.{\i}
+Dialogue: 0,0:00:44.54,0:00:47.34,Default,,0,0,0,,{\i1}Çok bilmişsin! Sanki daha önce görmüşsün!{\i}
+Dialogue: 0,0:00:48.30,0:00:50.09,Default,,0,0,0,,{\i1}Şey, görmedim.{\i}
+Dialogue: 0,0:01:19.25,0:01:22.50,Default,,0,0,0,,CYBERPUNK 2077'DEN UYARLANMIŞTIR
+Dialogue: 0,0:01:22.50,0:01:25.54,Default,,0,0,0,,MIKE PONDSMITH'İN YARATTIĞI\NEVRENDE GEÇMEKTEDİR
+Dialogue: 0,0:02:49.17,0:02:52.05,Default,,0,0,0,,{\i1}Burada çalışmıyorsun, değil mi?{\i}
+Dialogue: 0,0:03:04.35,0:03:06.98,Default,,0,0,0,,Otuz saniye kaybettik, Miguel.
+Dialogue: 0,0:03:06.98,0:03:08.65,Default,,0,0,0,,Topla kendini.
+Dialogue: 0,0:03:09.23,0:03:10.65,Default,,0,0,0,,Kusura bakma, King.
+Dialogue: 0,0:03:11.65,0:03:13.69,Default,,0,0,0,,Cesedi bıraksana!
+Dialogue: 0,0:03:14.19,0:03:16.78,Default,,0,0,0,,Çok dikkatsizsin, Miguel.
+Dialogue: 0,0:03:17.86,0:03:20.66,Default,,0,0,0,,Bundan Emily'ye bahsetmesek olur mu?
+Dialogue: 0,0:03:24.08,0:03:26.87,Default,,0,0,0,,{\i1}Siktir! Tüm kutular birbirine benziyor!{\i}
+Dialogue: 0,0:03:26.87,0:03:30.46,Default,,0,0,0,,{\i1}- Sakin ol, Miguel. Bunu bekliyordum.{\i}\N- {\i1}Peki hangisi bizimki?{\i}
+Dialogue: 0,0:03:30.46,0:03:32.29,Default,,0,0,0,,{\i1}Sol taraftaki sıra.{\i}
+Dialogue: 0,0:03:32.30,0:03:34.51,Default,,0,0,0,,{\i1}İki sağındaki. Tombala.{\i}
+Dialogue: 0,0:03:38.97,0:03:40.14,Default,,0,0,0,,Buldun mu?
+Dialogue: 0,0:03:40.14,0:03:42.97,Default,,0,0,0,,{\i1}- Bunun doğru çanta olduğundan emin miyiz?{\i}\N- {\i1}Getir bakayım.{\i}
+Dialogue: 0,0:03:42.97,0:03:46.23,Default,,0,0,0,,{\i1}AR-CPRN-XR-05.{\i}
+Dialogue: 0,0:03:46.23,0:03:47.98,Default,,0,0,0,,{\i1}Evet, aradığımız bu.{\i}
+Dialogue: 0,0:03:47.98,0:03:49.27,Default,,0,0,0,,Bulduk! Vay be!
+Dialogue: 0,0:03:49.27,0:03:51.06,Default,,0,0,0,,Ne halt ediyorsun?
+Dialogue: 0,0:03:51.06,0:03:54.90,Default,,0,0,0,,{\i1}Dikkat etsene! Çantada bir biyoçip var!{\i}
+Dialogue: 0,0:03:54.90,0:03:55.98,Default,,0,0,0,,Avida?
+Dialogue: 0,0:03:55.99,0:03:59.91,Default,,0,0,0,,Sus, biliyorum! Of, çok soğuk!
+Dialogue: 0,0:04:00.82,0:04:02.53,Default,,0,0,0,,{\i1}Hedef emniyete alındı.{\i}
+Dialogue: 0,0:04:02.53,0:04:04.62,Default,,0,0,0,,{\i1}Hey, çantayı bulduk diyorum!{\i}
+Dialogue: 0,0:04:05.79,0:04:07.83,Default,,0,0,0,,King! Beni duydun mu?
+Dialogue: 0,0:04:13.21,0:04:15.25,Default,,0,0,0,,Ne? Çantayı buldun mu, Miguel?
+Dialogue: 0,0:04:15.26,0:04:17.30,Default,,0,0,0,,Yok artık, dostum.
+Dialogue: 0,0:04:17.30,0:04:19.17,Default,,0,0,0,,Bulmuşsun! Binayı terk edelim!
+Dialogue: 0,0:04:19.18,0:04:21.80,Default,,0,0,0,,{\i1}Dalga mı geçiyorsunuz, çocuklar?{\i}
+Dialogue: 0,0:04:22.30,0:04:23.35,Default,,0,0,0,,{\i1}Aracımız?{\i}
+Dialogue: 0,0:04:23.35,0:04:25.31,Default,,0,0,0,,{\i1}Kapının önündekini hack'ledim.{\i}
+Dialogue: 0,0:04:25.31,0:04:26.56,Default,,0,0,0,,{\i1}Şoförümüz?{\i}
+Dialogue: 0,0:04:26.56,0:04:29.81,Default,,0,0,0,,{\i1}O ekstraydı! Başka biri kullansa...{\i}
+Dialogue: 0,0:04:30.48,0:04:31.48,Default,,0,0,0,,{\i1}Bekleyin.{\i}
+Dialogue: 0,0:04:32.98,0:04:33.98,Default,,0,0,0,,Sorun mu var?
+Dialogue: 0,0:04:34.65,0:04:35.73,Default,,0,0,0,,Meshuga?
+Dialogue: 0,0:04:35.73,0:04:36.99,Default,,0,0,0,,{\i1}Sıçtık, geri çekilin...{\i}
+Dialogue: 0,0:04:38.61,0:04:39.61,Default,,0,0,0,,Kapı!
+Dialogue: 0,0:04:41.86,0:04:43.83,Default,,0,0,0,,King! Tarama yap!
+Dialogue: 0,0:05:05.43,0:05:06.47,Default,,0,0,0,,Miguel!
+Dialogue: 0,0:05:25.28,0:05:26.53,Default,,0,0,0,,Olduğunuz yerde...
+Dialogue: 0,0:05:30.83,0:05:32.04,Default,,0,0,0,,Miguel, araba!
+Dialogue: 0,0:05:32.04,0:05:33.67,Default,,0,0,0,,Biliyoruz!
+Dialogue: 0,0:05:35.04,0:05:37.17,Default,,0,0,0,,{\i1}Yangın mı çıkmış?{\i}
+Dialogue: 0,0:05:37.17,0:05:39.05,Default,,0,0,0,,{\i1}Orası Arasaka bölgesi değil mi?{\i}
+Dialogue: 0,0:05:39.92,0:05:41.13,Default,,0,0,0,,{\i1}Bu da ne?{\i}
+Dialogue: 0,0:05:41.13,0:05:43.05,Default,,0,0,0,,{\i1}Önemli bir son dakika haberi mi?{\i}
+Dialogue: 0,0:05:43.89,0:05:45.47,Default,,0,0,0,,{\i1}Tabii ki değil.{\i}
+Dialogue: 0,0:05:50.56,0:05:51.81,Default,,0,0,0,,Gözümü ayırmayacağım...
+Dialogue: 0,0:05:52.69,0:05:54.35,Default,,0,0,0,,Hey, önüne baksana!
+Dialogue: 0,0:05:54.35,0:05:56.86,Default,,0,0,0,,- Kımıldamayın! Durun...\N- Ne dedin lan velet?
+Dialogue: 0,0:05:56.86,0:05:58.57,Default,,0,0,0,,Ay, özür dilerim!
+Dialogue: 0,0:06:10.20,0:06:12.71,Default,,0,0,0,,Siktir! Bu nasıl bir gün böyle?
+Dialogue: 0,0:06:13.92,0:06:16.54,Default,,0,0,0,,İyi misin, Emily? Hey!
+Dialogue: 0,0:06:16.54,0:06:18.09,Default,,0,0,0,,Sayılır.
+Dialogue: 0,0:06:18.09,0:06:20.38,Default,,0,0,0,,King! Senin derdin ne, moruk?
+Dialogue: 0,0:06:20.88,0:06:23.13,Default,,0,0,0,,Miguel, çanta...
+Dialogue: 0,0:06:23.13,0:06:25.51,Default,,0,0,0,,Bırak gitsin! Bu iş yattı.
+Dialogue: 0,0:06:26.09,0:06:27.47,Default,,0,0,0,,Hey, dur!
+Dialogue: 0,0:06:36.85,0:06:37.86,Default,,0,0,0,,Avida...
+Dialogue: 0,0:06:41.32,0:06:44.15,Default,,0,0,0,,Avida!
+Dialogue: 0,0:06:57.17,0:06:58.84,Default,,0,0,0,,Avida!
+Dialogue: 0,0:07:18.48,0:07:20.73,Default,,0,0,0,,Hadi Emily, dayan.
+Dialogue: 0,0:07:21.73,0:07:24.24,Default,,0,0,0,,Seni hemen bir kliniğe götürmeliyiz.
+Dialogue: 0,0:07:26.36,0:07:30.20,Default,,0,0,0,,Boş ver, kaç ve kendini kurtar, Miguel.
+Dialogue: 0,0:07:30.20,0:07:33.91,Default,,0,0,0,,Saçma sapan konuşma!\NSiktir, King'in neyi var böyle?
+Dialogue: 0,0:07:34.50,0:07:36.00,Default,,0,0,0,,{\i1}Siberpsikoz.{\i}
+Dialogue: 0,0:07:37.00,0:07:38.92,Default,,0,0,0,,{\i1}Göz göze geldiğimizde anladım.{\i}
+Dialogue: 0,0:07:39.67,0:07:40.67,Default,,0,0,0,,{\i1}Bakışları...{\i}
+Dialogue: 0,0:07:41.71,0:07:42.75,Default,,0,0,0,,{\i1}Saykoya bağladı.{\i}
+Dialogue: 0,0:07:49.93,0:07:53.72,Default,,0,0,0,,{\i1}Anlaşıldı. Sibersaykoyu\Netkisiz hâle getireceğiz.{\i}
+Dialogue: 0,0:07:54.22,0:07:59.10,Default,,0,0,0,,{\i1}Travma Ekibi sigortası kontrol ediliyor.\NKontrat kapsamına göre ekibi...{\i}
+Dialogue: 0,0:08:07.65,0:08:09.03,Default,,0,0,0,,Şu kargaşaya bak.
+Dialogue: 0,0:08:09.53,0:08:12.70,Default,,0,0,0,,Kolay gelsin, mesaim başladı.
+Dialogue: 0,0:08:12.70,0:08:14.45,Default,,0,0,0,,Ne izliyorsunuz öyle?
+Dialogue: 0,0:08:14.95,0:08:16.45,Default,,0,0,0,,Bağımsız bir video.
+Dialogue: 0,0:08:16.45,0:08:19.37,Default,,0,0,0,,Video mu? Ama biz BD dükkânıyız.
+Dialogue: 0,0:08:19.87,0:08:23.00,Default,,0,0,0,,Böyle videoların hâlâ alıcısı var.
+Dialogue: 0,0:08:23.00,0:08:26.13,Default,,0,0,0,,Bu dünkü haberlerdeki Arasaka olayı mı?
+Dialogue: 0,0:08:26.13,0:08:29.97,Default,,0,0,0,,Evet, MaksTak\Nbir saykoyu yakalamaya çalıştı.
+Dialogue: 0,0:08:30.76,0:08:33.64,Default,,0,0,0,,Ama şerefsizde VIP platin sigorta varmış.
+Dialogue: 0,0:08:33.64,0:08:36.31,Default,,0,0,0,,Travma Ekibi\Nalelacele onu kurtarmaya geldi.
+Dialogue: 0,0:08:36.31,0:08:39.39,Default,,0,0,0,,Olan Arasaka'ya oldu.
+Dialogue: 0,0:08:39.39,0:08:41.81,Default,,0,0,0,,Arasaka düşüşe mi geçti ne?
+Dialogue: 0,0:08:41.81,0:08:43.69,Default,,0,0,0,,Sürekli darbe alıyorlar.
+Dialogue: 0,0:08:44.19,0:08:47.32,Default,,0,0,0,,- Bunu sen mi çektin?\N- Evet.
+Dialogue: 0,0:08:47.32,0:08:49.11,Default,,0,0,0,,Öyle mi? Fena değil.
+Dialogue: 0,0:08:53.12,0:08:54.83,Default,,0,0,0,,İşte Travma Ekibi geliyor.
+Dialogue: 0,0:08:55.33,0:08:59.20,Default,,0,0,0,,İhtiyar yaşına göre iyi direniyordu\Nama sonunda devrildi.
+Dialogue: 0,0:08:59.21,0:09:00.41,Default,,0,0,0,,Ünlü biri mi?
+Dialogue: 0,0:09:00.41,0:09:01.83,Default,,0,0,0,,Ona King derler.
+Dialogue: 0,0:09:01.83,0:09:03.17,Default,,0,0,0,,King mi?
+Dialogue: 0,0:09:03.67,0:09:04.75,Default,,0,0,0,,Çok ezik!
+Dialogue: 0,0:09:04.75,0:09:07.34,Default,,0,0,0,,Aynen! Sen bir de gerçek adını duy...
+Dialogue: 0,0:09:07.34,0:09:09.55,Default,,0,0,0,,- Ne kadar ödeyeceksin?\N- Ne?
+Dialogue: 0,0:09:11.26,0:09:12.34,Default,,0,0,0,,İki yüz.
+Dialogue: 0,0:09:12.34,0:09:14.68,Default,,0,0,0,,Çok ucuz, hem de çok.
+Dialogue: 0,0:09:14.68,0:09:17.10,Default,,0,0,0,,Hadi oradan! Kanallar daha çok verir!
+Dialogue: 0,0:09:17.10,0:09:21.02,Default,,0,0,0,,N54 en fazla 100 bayılır.
+Dialogue: 0,0:09:22.40,0:09:24.11,Default,,0,0,0,,Peki, 200 olsun.
+Dialogue: 0,0:09:26.23,0:09:28.07,Default,,0,0,0,,Amma toysun.
+Dialogue: 0,0:09:29.49,0:09:33.61,Default,,0,0,0,,Sen işine bak!\NO BD'lerin ayarını kim yapacak?
+Dialogue: 0,0:09:34.12,0:09:35.45,Default,,0,0,0,,Tamam, peki.
+Dialogue: 0,0:09:36.62,0:09:40.87,Default,,0,0,0,,O zaman hoşça kal.\NÖf, yine başladık mesaiye.
+Dialogue: 0,0:09:48.67,0:09:50.01,Default,,0,0,0,,{\an8}Bak Roman.
+Dialogue: 0,0:09:50.01,0:09:53.59,Default,,0,0,0,,{\an8}Para artık BD'lerden kazanılıyor,\Nyani beyin dansından.
+Dialogue: 0,0:09:54.22,0:09:58.18,Default,,0,0,0,,{\an8}Jessie'nin BD düzenleyerek\Nne kadar kazandığından haberin var mı?
+Dialogue: 0,0:09:58.18,0:10:01.10,Default,,0,0,0,,{\an8}BD ayarlamaya\N"düzenleme" demek biraz abartı.
+Dialogue: 0,0:10:01.64,0:10:03.73,Default,,0,0,0,,{\an8}Video kurgulamaya benzemez.
+Dialogue: 0,0:10:03.73,0:10:06.69,Default,,0,0,0,,{\an8}BD'ler anıların tekrarından ibaret,\Nbunun nesi eğlenceli?
+Dialogue: 0,0:10:06.69,0:10:09.40,Default,,0,0,0,,{\an8}Gençsin ama eski kafalı düşünüyorsun.
+Dialogue: 0,0:10:09.40,0:10:13.57,Default,,0,0,0,,{\an8}İnsanlar BD istiyor,\Nsenin sevdiğin filmleri değil.
+Dialogue: 0,0:10:14.41,0:10:16.74,Default,,0,0,0,,Sinemanın devri kapandı.
+Dialogue: 0,0:10:18.20,0:10:20.12,Default,,0,0,0,,BD'lerle hikâye anlatamazsın.
+Dialogue: 0,0:10:20.62,0:10:23.33,Default,,0,0,0,,Hikâye mi? Onları kim ne yapsın?
+Dialogue: 0,0:10:23.91,0:10:27.92,Default,,0,0,0,,BD'lerde seyirciyle hikâyeyi ayıran\Nbir sınır yok.
+Dialogue: 0,0:10:28.42,0:10:32.21,Default,,0,0,0,,İyi bir film\Ninsanı o sınırın ötesine çeker.
+Dialogue: 0,0:10:32.21,0:10:35.30,Default,,0,0,0,,Ekran karşındadır ama onun varlığını unutursun.
+Dialogue: 0,0:10:35.80,0:10:40.31,Default,,0,0,0,,Bu yüzden ekran önemlidir.\NBu yüzden hikâye önemlidir.
+Dialogue: 0,0:10:40.31,0:10:42.81,Default,,0,0,0,,Ne kadar da derin konuştun.
+Dialogue: 0,0:10:44.56,0:10:47.73,Default,,0,0,0,,BD çekmek istemiyorsan\NMaelstrom'u çekmeyi dene.
+Dialogue: 0,0:10:47.73,0:10:50.94,Default,,0,0,0,,Maelstrom mu? O adamlar tehlikeli.
+Dialogue: 0,0:10:50.94,0:10:52.94,Default,,0,0,0,,Hani paraya ihtiyacın vardı?
+Dialogue: 0,0:10:52.94,0:10:57.74,Default,,0,0,0,,Millete krom taktıkları görüntüler\Nzor bulunur ama çok satar.
+Dialogue: 0,0:10:57.74,0:11:00.74,Default,,0,0,0,,İğrenç bir şey, hiç sanatsal yanı yok!
+Dialogue: 0,0:11:00.74,0:11:03.66,Default,,0,0,0,,- Ayrıca nereden başlayacağım?\N- Kendin bul!
+Dialogue: 0,0:11:03.66,0:11:06.58,Default,,0,0,0,,Kolay olsaydı bu kadar değerli olmazdı.
+Dialogue: 0,0:11:06.58,0:11:10.34,Default,,0,0,0,,Bana video getirirsen\Nvereceğim parayla iyi bir kamera alırsın.
+Dialogue: 0,0:11:10.34,0:11:13.46,Default,,0,0,0,,Ama piyasada iyi kamera yok ki.
+Dialogue: 0,0:11:15.63,0:11:19.22,Default,,0,0,0,,35 mm. Elimde bir 35'lik var.
+Dialogue: 0,0:11:21.10,0:11:25.35,Default,,0,0,0,,Filmi de var,\Ngerçi hâlâ çalışıyor mu, emin değilim.
+Dialogue: 0,0:11:26.10,0:11:30.19,Default,,0,0,0,,O görüntüleri getirirsen senindir.\NYoksa BD üstünde çalışmaya devam edersin.
+Dialogue: 0,0:11:31.27,0:11:33.23,Default,,0,0,0,,Maelstrom demek?
+Dialogue: 0,0:11:41.95,0:11:43.24,Default,,0,0,0,,Yine mi, Bayan Yang?
+Dialogue: 0,0:11:43.24,0:11:44.95,Default,,0,0,0,,Bu kaçıncı oldu?
+Dialogue: 0,0:11:44.95,0:11:46.79,Default,,0,0,0,,Hastamız uyandı.
+Dialogue: 0,0:11:48.12,0:11:51.58,Default,,0,0,0,,Elli gün mü?\NO kadar zamandır uyuyor muyum?
+Dialogue: 0,0:11:51.59,0:11:55.51,Default,,0,0,0,,Çok acayip, değil mi?\NAma en azından hayattasın.
+Dialogue: 0,0:11:55.51,0:11:59.09,Default,,0,0,0,,Platin sigortan olmasa\Nşu an MaksTak'ın ceset torbasında olurdun.
+Dialogue: 0,0:11:59.09,0:12:00.84,Default,,0,0,0,,Pahalı ama hakkını veriyor.
+Dialogue: 0,0:12:00.85,0:12:03.43,Default,,0,0,0,,Ceset torbası mı? MaksTak mı?
+Dialogue: 0,0:12:03.43,0:12:07.02,Default,,0,0,0,,Aynen, neredeyse tam bir\Nsiberpsikoz nöbeti geçiriyordun.
+Dialogue: 0,0:12:07.52,0:12:10.27,Default,,0,0,0,,Siberpsikoz mu? Ben mi?
+Dialogue: 0,0:12:10.27,0:12:12.65,Default,,0,0,0,,Üzgünüm ama krom işini abartmışsın.
+Dialogue: 0,0:12:12.65,0:12:15.48,Default,,0,0,0,,İnsan bedeninin de bir sınırı var.
+Dialogue: 0,0:12:15.48,0:12:18.86,Default,,0,0,0,,Üstüne stres ve diğer şeyler de eklenince...
+Dialogue: 0,0:12:18.86,0:12:21.32,Default,,0,0,0,,Hayır, formumun zirvesindeydim.
+Dialogue: 0,0:12:21.82,0:12:23.49,Default,,0,0,0,,Hiç stresli değildim.
+Dialogue: 0,0:12:23.99,0:12:27.25,Default,,0,0,0,,Belirti göstermemek\Noldukça yaygın bir durum.
+Dialogue: 0,0:12:27.25,0:12:31.25,Default,,0,0,0,,Bunu nelerin tetiklediğini\Nhâlâ tam olarak bilmiyoruz.
+Dialogue: 0,0:12:31.25,0:12:33.71,Default,,0,0,0,,Ama seninki çok klasik bir vakaydı.
+Dialogue: 0,0:12:33.71,0:12:36.42,Default,,0,0,0,,Sınırını aştın, gerçek bu.
+Dialogue: 0,0:12:36.92,0:12:41.59,Default,,0,0,0,,Gereksiz donanımları çıkarıp\Ndüşük tüketimli implantlar taktık.
+Dialogue: 0,0:12:41.59,0:12:44.89,Default,,0,0,0,,Artık beyninin patlamasından\Nkorkmana gerek yok.
+Dialogue: 0,0:12:44.89,0:12:46.35,Default,,0,0,0,,Bana güvenebilirsin.
+Dialogue: 0,0:12:47.18,0:12:48.39,Default,,0,0,0,,Bu ne kadar sürecek?
+Dialogue: 0,0:12:49.27,0:12:51.23,Default,,0,0,0,,Tekrar ne zaman...
+Dialogue: 0,0:12:51.23,0:12:53.77,Default,,0,0,0,,Salaklık etme dostum, ölmek mi istiyorsun?
+Dialogue: 0,0:12:53.77,0:12:56.40,Default,,0,0,0,,Artık implant falan yok.
+Dialogue: 0,0:12:56.40,0:12:57.69,Default,,0,0,0,,Dalga mı geçiyorsun?
+Dialogue: 0,0:12:57.69,0:12:59.90,Default,,0,0,0,,Tekrar implant takarsan...
+Dialogue: 0,0:12:59.90,0:13:01.03,Default,,0,0,0,,Bum!
+Dialogue: 0,0:13:01.03,0:13:03.78,Default,,0,0,0,,Artık seni koruyacak sigortan da yok.
+Dialogue: 0,0:13:03.78,0:13:06.58,Default,,0,0,0,,MaksTak tekrar seni almaya gelirse\Nkaçışın yok.
+Dialogue: 0,0:13:07.66,0:13:08.70,Default,,0,0,0,,Buraya kadar.
+Dialogue: 0,0:13:09.41,0:13:12.54,Default,,0,0,0,,Şimdi faturanı konuşalım.
+Dialogue: 0,0:13:12.54,0:13:14.17,Default,,0,0,0,,İyi ki birikim yapmışsın!
+Dialogue: 0,0:13:14.17,0:13:16.71,Default,,0,0,0,,Böyle bir tedavi çoğu insanı batırırdı!
+Dialogue: 0,0:13:16.71,0:13:21.59,Default,,0,0,0,,Birkaç malına el koyarak açığı kapattık\Nama halloldu! Tanrı seni kutsasın!
+Dialogue: 0,0:13:23.09,0:13:24.09,Default,,0,0,0,,Ne?
+Dialogue: 0,0:13:25.68,0:13:27.10,Default,,0,0,0,,ERİŞİM ENGELLENDİ\NHACİZLİ MÜLK
+Dialogue: 0,0:13:33.31,0:13:36.56,Default,,0,0,0,,{\i1}- King! Hayatta mısın?{\i}\N- {\i1}Belli ki.{\i}
+Dialogue: 0,0:13:36.57,0:13:39.07,Default,,0,0,0,,{\i1}Anladım, harika haber.{\i}
+Dialogue: 0,0:13:39.07,0:13:41.07,Default,,0,0,0,,{\i1}"King" mi dedin?{\i}
+Dialogue: 0,0:13:41.07,0:13:44.07,Default,,0,0,0,,{\i1}Miguel mi o? Afterlife'ta mısınız?{\i}
+Dialogue: 0,0:13:44.07,0:13:45.66,Default,,0,0,0,,{\i1}Bu o mu?{\i}
+Dialogue: 0,0:13:45.66,0:13:47.41,Default,,0,0,0,,{\i1}Affedersin, sonra ararım.{\i}
+Dialogue: 0,0:13:51.33,0:13:53.12,Default,,0,0,0,,Kes şunu, Miguel!
+Dialogue: 0,0:13:54.04,0:13:56.71,Default,,0,0,0,,Dur! Yeter dedim, Miguel!
+Dialogue: 0,0:14:01.59,0:14:03.97,Default,,0,0,0,,Üzgünüm millet, bize aldırmayın.
+Dialogue: 0,0:14:05.34,0:14:06.97,Default,,0,0,0,,King, iyi misin?
+Dialogue: 0,0:14:08.10,0:14:09.10,Default,,0,0,0,,Evet.
+Dialogue: 0,0:14:12.56,0:14:16.52,Default,,0,0,0,,Yumuşadın mı yoksa?\NMiguel'in seni pataklamasına izin verdin.
+Dialogue: 0,0:14:17.31,0:14:19.48,Default,,0,0,0,,Rehabilitasyona ihtiyacım var.
+Dialogue: 0,0:14:22.07,0:14:24.03,Default,,0,0,0,,Artık iyi misin?
+Dialogue: 0,0:14:24.78,0:14:27.99,Default,,0,0,0,,- Söylemeyeyim diyorum ama...\N- Siberpsikoz mu?
+Dialogue: 0,0:14:27.99,0:14:29.99,Default,,0,0,0,,- Evet.\N- İyiyim.
+Dialogue: 0,0:14:30.58,0:14:32.79,Default,,0,0,0,,Ama tüm implantlarım devre dışı.
+Dialogue: 0,0:14:33.29,0:14:35.37,Default,,0,0,0,,Tekrar aktive edersem ölürüm.
+Dialogue: 0,0:14:35.37,0:14:36.62,Default,,0,0,0,,Ha siktir.
+Dialogue: 0,0:14:36.63,0:14:39.29,Default,,0,0,0,,Söyle bakalım Meshuga, sonrasında...
+Dialogue: 0,0:14:39.30,0:14:40.88,Default,,0,0,0,,Ölmeliydin.
+Dialogue: 0,0:14:41.59,0:14:42.51,Default,,0,0,0,,Hey!
+Dialogue: 0,0:14:43.09,0:14:45.47,Default,,0,0,0,,Kendini kaybettin ulan.
+Dialogue: 0,0:14:45.47,0:14:48.39,Default,,0,0,0,,Kafayı yemeseydin Emily hâlâ...
+Dialogue: 0,0:14:49.47,0:14:51.27,Default,,0,0,0,,- Miguel...\N- Dokunma bana.
+Dialogue: 0,0:14:52.73,0:14:54.18,Default,,0,0,0,,Miguel, ben...
+Dialogue: 0,0:14:55.10,0:14:57.40,Default,,0,0,0,,Dokunma dedim ulan!
+Dialogue: 0,0:14:59.61,0:15:01.98,Default,,0,0,0,,Bekle, Miguel! King'in suçu yok...
+Dialogue: 0,0:15:01.98,0:15:03.44,Default,,0,0,0,,- Bırak beni!\N- Miguel!
+Dialogue: 0,0:15:03.44,0:15:06.86,Default,,0,0,0,,Hatırlayamıyorum! Hafızam harap hâlde.
+Dialogue: 0,0:15:07.36,0:15:10.16,Default,,0,0,0,,Ne yaptım? Yoksa Emily...
+Dialogue: 0,0:15:10.16,0:15:11.49,Default,,0,0,0,,Onu öldürdün!
+Dialogue: 0,0:15:12.66,0:15:13.95,Default,,0,0,0,,Ben mi?
+Dialogue: 0,0:15:13.95,0:15:14.87,Default,,0,0,0,,Niye...
+Dialogue: 0,0:15:14.87,0:15:19.38,Default,,0,0,0,,Niye Emily ölüyor da\Nsenin gibi bir mal yaşıyor?
+Dialogue: 0,0:15:19.38,0:15:21.21,Default,,0,0,0,,Onunla birlikte ölmeliydin!
+Dialogue: 0,0:15:21.21,0:15:23.63,Default,,0,0,0,,Ne biçim bir pergezersin sen!
+Dialogue: 0,0:15:27.59,0:15:30.47,Default,,0,0,0,,- Meshuga...\N- Gitmelisin.
+Dialogue: 0,0:15:31.47,0:15:32.77,Default,,0,0,0,,Sonra konuşalım.
+Dialogue: 0,0:15:38.73,0:15:40.23,Default,,0,0,0,,Hey!
+Dialogue: 0,0:15:40.98,0:15:41.98,Default,,0,0,0,,Bay King!
+Dialogue: 0,0:15:47.70,0:15:50.78,Default,,0,0,0,,Bizi hatırladın mı?
+Dialogue: 0,0:15:52.33,0:15:56.66,Default,,0,0,0,,Tabii ki hatırlamadın, değil mi?\NÇünkü King herkesten önemli!
+Dialogue: 0,0:15:58.08,0:15:59.29,Default,,0,0,0,,O bakış ne öyle?
+Dialogue: 0,0:16:02.29,0:16:06.55,Default,,0,0,0,,Gerçek adını biliyor musunuz kankalarım?\NWeak Kingsley.
+Dialogue: 0,0:16:07.05,0:16:11.30,Default,,0,0,0,,Bu ad ona daha çok yakışıyor.\NÇete katili pislik!
+Dialogue: 0,0:16:11.30,0:16:14.22,Default,,0,0,0,,Sakın seni buralarda görmeyelim.
+Dialogue: 0,0:16:27.32,0:16:32.74,Default,,0,0,0,,{\i1}Bahsettiğin binadayım ama kapı duvar.\NBurası olduğundan emin misin?{\i}
+Dialogue: 0,0:16:32.74,0:16:35.37,Default,,0,0,0,,{\i1}Oralarda bir yerde olmalı.{\i}
+Dialogue: 0,0:16:35.37,0:16:36.70,Default,,0,0,0,,"Oralarda" mı?
+Dialogue: 0,0:16:36.70,0:16:38.33,Default,,0,0,0,,{\i1}Etrafa bakınsana.{\i}
+Dialogue: 0,0:16:39.54,0:16:42.96,Default,,0,0,0,,Moruktan bana hayır yok.
+Dialogue: 0,0:17:42.31,0:17:44.19,Default,,0,0,0,,Sen de kimsin?
+Dialogue: 0,0:17:49.44,0:17:50.44,Default,,0,0,0,,Bir çocuk mu?
+Dialogue: 0,0:17:51.03,0:17:53.78,Default,,0,0,0,,Özür dilerim, izin almadan çektim.
+Dialogue: 0,0:17:57.41,0:18:01.96,Default,,0,0,0,,Özür dilerim ama seslenmenin\Ngüvenli olmayacağını düşündüm, o yüzden...
+Dialogue: 0,0:18:02.79,0:18:06.96,Default,,0,0,0,,Aslında Maelstrom'u arıyorum.
+Dialogue: 0,0:18:10.13,0:18:12.67,Default,,0,0,0,,Bedeninin çoğu hâlâ organik mi?
+Dialogue: 0,0:18:12.67,0:18:13.84,Default,,0,0,0,,- Ne?\N- Niye?
+Dialogue: 0,0:18:14.47,0:18:18.68,Default,,0,0,0,,"Niye" mi? Bilmem. Pek ilgimi çekmiyor...
+Dialogue: 0,0:18:19.18,0:18:20.18,Default,,0,0,0,,Of!
+Dialogue: 0,0:18:20.68,0:18:23.69,Default,,0,0,0,,Nasıl böyle bir bedende yaşayabiliyorsun?
+Dialogue: 0,0:18:25.15,0:18:26.69,Default,,0,0,0,,Of! Ne yapıyorsun?
+Dialogue: 0,0:18:26.69,0:18:27.98,Default,,0,0,0,,Karşıya geç.
+Dialogue: 0,0:18:32.19,0:18:33.32,Default,,0,0,0,,Şey...
+Dialogue: 0,0:18:33.32,0:18:35.70,Default,,0,0,0,,Çekmemeliydim, çok özür...
+Dialogue: 0,0:18:35.70,0:18:37.95,Default,,0,0,0,,Şu an başka bir şey konuşuyoruz.
+Dialogue: 0,0:18:37.95,0:18:40.24,Default,,0,0,0,,Ben yaparken izledin.
+Dialogue: 0,0:18:40.24,0:18:42.12,Default,,0,0,0,,Şimdi ben seni izleyeceğim.
+Dialogue: 0,0:18:42.12,0:18:43.33,Default,,0,0,0,,Asla olmaz, yapamam!
+Dialogue: 0,0:18:43.91,0:18:47.29,Default,,0,0,0,,- Niye ki?\N- Çünkü implantlar olmadan imkânsız!
+Dialogue: 0,0:18:47.29,0:18:50.75,Default,,0,0,0,,Ama implantsız\Nyaşayabileceğini sanıyorsun.
+Dialogue: 0,0:18:51.26,0:18:52.84,Default,,0,0,0,,O zaman kanıtla.
+Dialogue: 0,0:18:59.89,0:19:01.68,Default,,0,0,0,,İşte orada.
+Dialogue: 0,0:19:01.68,0:19:04.77,Default,,0,0,0,,Talia! Stabilizör nasıl çalışıyor?
+Dialogue: 0,0:19:04.77,0:19:06.44,Default,,0,0,0,,On numara, sorunsuz.
+Dialogue: 0,0:19:06.44,0:19:07.81,Default,,0,0,0,,Maelstrom.
+Dialogue: 0,0:19:08.31,0:19:09.40,Default,,0,0,0,,Bu velet kim?
+Dialogue: 0,0:19:10.40,0:19:12.40,Default,,0,0,0,,Yuh, tamamen organikmiş.
+Dialogue: 0,0:19:12.40,0:19:14.28,Default,,0,0,0,,Doğru, hiç modifiye edilmemiş.
+Dialogue: 0,0:19:14.28,0:19:16.70,Default,,0,0,0,,Sizi merak ediyormuş, çocuklar.
+Dialogue: 0,0:19:18.62,0:19:20.28,Default,,0,0,0,,Tam olarak öyle demedim.
+Dialogue: 0,0:19:20.28,0:19:23.54,Default,,0,0,0,,Tek kelime daha etme.
+Dialogue: 0,0:19:23.54,0:19:24.87,Default,,0,0,0,,Kulübe hoş geldin.
+Dialogue: 0,0:19:25.46,0:19:26.75,Default,,0,0,0,,Hoş mu...
+Dialogue: 0,0:19:27.75,0:19:29.42,Default,,0,0,0,,Debelenme.
+Dialogue: 0,0:19:29.42,0:19:31.84,Default,,0,0,0,,Gevşe, çok havalı olacaksın.
+Dialogue: 0,0:19:37.84,0:19:39.55,Default,,0,0,0,,Görüşürüz, Talia!
+Dialogue: 0,0:19:41.72,0:19:43.60,Default,,0,0,0,,Cıyaklamayı kes.
+Dialogue: 0,0:20:01.58,0:20:03.99,Default,,0,0,0,,Bizi seçmekle akıllılık ettin, ufaklık.
+Dialogue: 0,0:20:03.99,0:20:06.33,Default,,0,0,0,,Kimse et yığını kalmak istemez.
+Dialogue: 0,0:20:07.41,0:20:10.25,Default,,0,0,0,,Bu bebeği denemek istiyordum.
+Dialogue: 0,0:20:10.25,0:20:11.84,Default,,0,0,0,,Yeni bir oyuncağın mı var?
+Dialogue: 0,0:20:12.84,0:20:14.59,Default,,0,0,0,,Cıyaklama dedik ya.
+Dialogue: 0,0:20:16.42,0:20:17.67,Default,,0,0,0,,Doğru.
+Dialogue: 0,0:20:17.67,0:20:19.59,Default,,0,0,0,,Anestezi ister misin?
+Dialogue: 0,0:20:20.72,0:20:23.06,Default,,0,0,0,,"Hayır" mı dedin? Amma cesurmuş!
+Dialogue: 0,0:20:23.56,0:20:25.35,Default,,0,0,0,,- Bir çocuk mu?\N- Nasıl istersen.
+Dialogue: 0,0:20:26.18,0:20:27.35,Default,,0,0,0,,Gösteri başlasın.
+Dialogue: 0,0:20:35.90,0:20:37.82,Default,,0,0,0,,Kahretsin, plan suya düştü.
+Dialogue: 0,0:20:39.15,0:20:40.57,Default,,0,0,0,,Burada da yok.
+Dialogue: 0,0:20:41.24,0:20:42.57,Default,,0,0,0,,İyi misin?
+Dialogue: 0,0:20:51.12,0:20:52.58,Default,,0,0,0,,Bir gezer daha!
+Dialogue: 0,0:20:57.13,0:21:00.59,Default,,0,0,0,,Tek başına çıkabilir misin?\NSeni ikinci kez kurtarmam!
+Dialogue: 0,0:21:07.77,0:21:08.77,Default,,0,0,0,,Selam.
+Dialogue: 0,0:21:09.73,0:21:12.73,Default,,0,0,0,,Onu tanıyorsun, değil mi?\NAdamın adı Helio.
+Dialogue: 0,0:21:12.73,0:21:14.61,Default,,0,0,0,,Nerede olduğunu söyler misin?
+Dialogue: 0,0:21:15.61,0:21:17.23,Default,,0,0,0,,Durumunun farkında mısın?
+Dialogue: 0,0:21:17.23,0:21:19.15,Default,,0,0,0,,Helio artık çetede değil.
+Dialogue: 0,0:21:20.90,0:21:22.53,Default,,0,0,0,,Nerede, dedim!
+Dialogue: 0,0:21:25.62,0:21:28.04,Default,,0,0,0,,Tamam, dur! Burada saklanıyor!
+Dialogue: 0,0:21:29.87,0:21:30.87,Default,,0,0,0,,Güzel.
+Dialogue: 0,0:21:41.43,0:21:42.59,Default,,0,0,0,,Kameram yok!
+Dialogue: 0,0:21:45.30,0:21:46.93,Default,,0,0,0,,Neyse ki yedeği var.
+Dialogue: 0,0:21:48.31,0:21:49.98,Default,,0,0,0,,Selam abi!
+Dialogue: 0,0:21:52.23,0:21:54.94,Default,,0,0,0,,Oh be,\Nön kapıdan çıkarsın diye korkmuştum...
+Dialogue: 0,0:21:54.94,0:21:56.15,Default,,0,0,0,,Kafasız mısın sen?
+Dialogue: 0,0:21:56.15,0:22:00.69,Default,,0,0,0,,Öldürülebilir, doğranabilir,\Nhatta daha beterine uğrayabilirdin!
+Dialogue: 0,0:22:01.53,0:22:03.49,Default,,0,0,0,,Beni kurtardığınız için sağ olun.
+Dialogue: 0,0:22:04.11,0:22:06.62,Default,,0,0,0,,Ayrıca teşekkürlerimi sunmak istiyorum.
+Dialogue: 0,0:22:07.33,0:22:10.87,Default,,0,0,0,,{\an8}- Teşekkürünü mü?\N- Yakında oturuyorum.
+Dialogue: 0,0:22:13.00,0:22:14.00,Default,,0,0,0,,{\an8}Bir tane daha.
+Dialogue: 0,0:22:14.79,0:22:16.38,Default,,0,0,0,,{\an8}Başka yok.
+Dialogue: 0,0:22:17.50,0:22:20.67,Default,,0,0,0,,{\an8}O sonuncusuydu,\Nevde başka bir şey kalmadı.
+Dialogue: 0,0:22:22.05,0:22:23.38,Default,,0,0,0,,Teşekkür bitti mi?
+Dialogue: 0,0:22:23.38,0:22:24.38,Default,,0,0,0,,Şey...
+Dialogue: 0,0:22:25.26,0:22:26.72,Default,,0,0,0,,Gidip alayım.
+Dialogue: 0,0:22:40.82,0:22:42.65,Default,,0,0,0,,Yakında akşam olacak.
+Dialogue: 0,0:22:44.49,0:22:46.91,Default,,0,0,0,,Babama ne diyeceğim?
+Dialogue: 0,0:22:49.20,0:22:51.66,Default,,0,0,0,,Bunu çekmemin anlamı yok.
+Dialogue: 0,0:22:58.59,0:23:00.50,Default,,0,0,0,,{\i1}O mallar da kim?{\i}
+Dialogue: 0,0:23:01.00,0:23:04.80,Default,,0,0,0,,{\i1}Bizi rezil etmelerine izin mi vereceğiz?\NYürüyün hadi!{\i}
+Dialogue: 0,0:23:04.80,0:23:06.80,Default,,0,0,0,,{\i1}Aynasızlar bizi ezip geçemez!{\i}
+Dialogue: 0,0:23:06.80,0:23:07.80,Default,,0,0,0,,{\i1}Siktir, arabam!{\i}
+Dialogue: 0,0:23:07.80,0:23:09.01,Default,,0,0,0,,Ne izliyorsun?
+Dialogue: 0,0:23:11.43,0:23:14.31,Default,,0,0,0,,{\i1}Patlama Paniği: Büyük Çarpışma.{\i}
+Dialogue: 0,0:23:15.98,0:23:17.19,Default,,0,0,0,,Hiç duymadım.
+Dialogue: 0,0:23:18.19,0:23:19.56,Default,,0,0,0,,{\i1}Oradalar! Yakaladık!{\i}
+Dialogue: 0,0:23:19.56,0:23:20.94,Default,,0,0,0,,Tahmin ettim.
+Dialogue: 0,0:23:26.07,0:23:28.86,Default,,0,0,0,,{\i1}Statik kafalı sokak serserileri!\NGelin hadi!{\i}
+Dialogue: 0,0:23:28.87,0:23:32.03,Default,,0,0,0,,Badlands'te mi geçiyor?
+Dialogue: 0,0:23:32.04,0:23:34.45,Default,,0,0,0,,Evet, sonuçta bir göçebe filmi.
+Dialogue: 0,0:23:36.54,0:23:37.54,Default,,0,0,0,,{\i1}Kes sesini!{\i}
+Dialogue: 0,0:23:38.42,0:23:40.50,Default,,0,0,0,,{\i1}Bir kere de yürekli ol be!{\i}
+Dialogue: 0,0:23:40.50,0:23:41.96,Default,,0,0,0,,{\i1}O da kim lan?{\i}
+Dialogue: 0,0:23:41.96,0:23:42.96,Default,,0,0,0,,{\i1}Dinleyin!{\i}
+Dialogue: 0,0:23:44.09,0:23:47.05,Default,,0,0,0,,{\i1}Ben bu toprakların şerifiyim ulan!{\i}
+Dialogue: 0,0:23:48.09,0:23:49.30,Default,,0,0,0,,{\i1}Serseriler!{\i}
+Dialogue: 0,0:23:50.51,0:23:51.97,Default,,0,0,0,,{\i1}Lexington ver.{\i}
+Dialogue: 0,0:23:53.77,0:23:56.48,Default,,0,0,0,,{\i1}Tekrar Lexington kullanacağımı\Nhiç düşünmezdim.{\i}
+Dialogue: 0,0:23:57.06,0:23:59.73,Default,,0,0,0,,{\i1}Çaylaklık günlerimi hatırlattı.{\i}
+Dialogue: 0,0:24:07.45,0:24:08.45,Default,,0,0,0,,{\i1}Avida.{\i}
+Dialogue: 0,0:24:11.74,0:24:14.03,Default,,0,0,0,,{\i1}Keşke seni son bir kez görebilseydim.{\i}
+Dialogue: 0,0:24:14.04,0:24:15.00,Default,,0,0,0,,GELEN ARAMA\NAVIDA
+Dialogue: 0,0:24:16.12,0:24:17.20,Default,,0,0,0,,Avida?
+Dialogue: 0,0:24:17.21,0:24:19.12,Default,,0,0,0,,GELEN ARAMA\NAVIDA
+Dialogue: 0,0:24:31.22,0:24:32.14,Default,,0,0,0,,Avida!
